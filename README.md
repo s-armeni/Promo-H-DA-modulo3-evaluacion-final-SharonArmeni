@@ -31,5 +31,5 @@ Utilizando este conjunto de datos, primero se ha realizado un __Análisis Explor
 ## Documentación:
 En este repositorio se incluye:
 - El documento en PDF con las pautas del ejercicio
-- Una carpeta con los archivos objeto del trabajo
+- Una carpeta (archivos) con los archivos objeto del trabajo
 - El archivo Jupyter con la resolución del ejercicio
